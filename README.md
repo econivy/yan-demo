@@ -20,6 +20,8 @@
 前端展示界面采用基于 **Boostrap** 实现的响应式布局，并集成了一系列的动画效果插件，整体界面简洁、美观大方并可优雅的与后台完成交互操作。<br>
 项目封装了一系列常用方法、部署运行简单，便于个人或企业进行高效开发。
 
+### 为了方便大家更好的学习，特别提供了该项目的部署教程视频，请前往[http://v.youku.com/v_show/id_XMzI2MDg4Njk4NA==.html?spm=a2h3j.8428770.3416059.1](http://v.youku.com/v_show/id_XMzI2MDg4Njk4NA==.html?spm=a2h3j.8428770.3416059.1)进行观看，更多详细配置说明还请参考本文档中 ------ *六、配置说明（Properties）*
+
 ## 一、项目开发环境&工具（Environment&Tools）
 * MacOS Sierra / Windows 7
 * MySql 5.7
