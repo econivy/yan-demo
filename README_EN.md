@@ -21,6 +21,8 @@ The project used **Maven** construction, facilitate the management and supports 
 The front-end display interface adopts the response layout based on the **Boostrap** implementation, and integrates a series of animation effect plug-ins. The overall interface is simple, elegant and elegant, and can complete the interaction with the background.<br>
 The project encapsulates a series of commonly used methods and easy to deploy to facilitate efficient development of individuals or enterprises.
 
+### To facilitate better learning, Special provision for the project deployment tutorial video, Please go to [http://v.youku.com/v_show/id_XMzI2MDg4Njk4NA==.html?spm=a2h3j.8428770.3416059.1](http://v.youku.com/v_show/id_XMzI2MDg4Njk4NA==.html?spm=a2h3j.8428770.3416059.1) for watching, for more detailed configuration instructions, refer to this document ------ *Properties*
+
 ## Environment & Tools
 * MacOS Sierra / Windows 7
 * MySql 5.7
